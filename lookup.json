@@ -3,1200 +3,1200 @@
     "HouseType": "Mid-Terrace",
     "NumPeople": 5,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.5
   },
   {
     "HouseType": "Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 13.0
+    "EstimatedSavingsPercentage": 1.8
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.1
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 3,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 3.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 3.1
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.9
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 1.8
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.6
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.8
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 10.0
+    "EstimatedSavingsPercentage": 1.1
   },
   {
     "HouseType": "Detached",
     "NumPeople": 5,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 10.0
+    "EstimatedSavingsPercentage": 2.1
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.2
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.3
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 3.2
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.6
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 1.9
   },
   {
     "HouseType": "Detached",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 1.6
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 5,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 10.0
+    "EstimatedSavingsPercentage": 2.2
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.9
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.6
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.5
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 3.1
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 7.0
+    "EstimatedSavingsPercentage": 0.9
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 13.0
+    "EstimatedSavingsPercentage": 2.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.2
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.8
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 4,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.5
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 13.0
+    "EstimatedSavingsPercentage": 2.6
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 5,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.8
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.9
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 6.0
+    "EstimatedSavingsPercentage": 0.8
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.3
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.6
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.4
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.9
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 8.0
+    "EstimatedSavingsPercentage": 1.4
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.1
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 10.0
+    "EstimatedSavingsPercentage": 1.7
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 13.0
+    "EstimatedSavingsPercentage": 2.1
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 10.0
+    "EstimatedSavingsPercentage": 2.1
   },
   {
     "HouseType": "Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 13.0
+    "EstimatedSavingsPercentage": 2.1
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 13.0
+    "EstimatedSavingsPercentage": 2.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 3.2
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.6
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 3.2
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 3.8
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.7
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 10.0
+    "EstimatedSavingsPercentage": 1.5
   },
   {
     "HouseType": "Detached",
     "NumPeople": 5,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 10.0
+    "EstimatedSavingsPercentage": 1.9
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 1.9
   },
   {
     "HouseType": "Detached",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 13.0
+    "EstimatedSavingsPercentage": 1.9
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 3,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.5
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 13.0
+    "EstimatedSavingsPercentage": 2.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 13.0
+    "EstimatedSavingsPercentage": 2.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 1.8
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.8
   },
   {
     "HouseType": "Detached",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 1.7
   },
   {
     "HouseType": "Detached",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.3
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.4
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 1.8
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.6
   },
   {
     "HouseType": "Detached",
     "NumPeople": 5,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 6.0
+    "EstimatedSavingsPercentage": 0.7
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 3.2
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 3,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 14.0
+    "EstimatedSavingsPercentage": 2.4
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 1.8
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.1
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.4
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 3,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.7
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.5
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 10.0
+    "EstimatedSavingsPercentage": 2.2
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 6.0
+    "EstimatedSavingsPercentage": 0.7
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 3,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.2
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 5,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.5
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.2
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 3.1
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 4,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.4
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 13.0
+    "EstimatedSavingsPercentage": 2.2
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.2
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.8
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 1.5
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.8
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 3.1
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 14.0
+    "EstimatedSavingsPercentage": 1.9
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 10.0
+    "EstimatedSavingsPercentage": 1.1
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 3.4
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 3,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.9
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 13.0
+    "EstimatedSavingsPercentage": 1.7
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.7
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.5
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.3
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.5
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 3,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.7
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 3.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 3.3
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 1.9
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 5,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 10.0
+    "EstimatedSavingsPercentage": 1.8
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 13.0
+    "EstimatedSavingsPercentage": 2.5
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.7
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.6
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.8
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 3.1
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 13.0
+    "EstimatedSavingsPercentage": 2.4
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 10.0
+    "EstimatedSavingsPercentage": 1.9
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 9.0
+    "EstimatedSavingsPercentage": 2.5
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.5
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 14.0
+    "EstimatedSavingsPercentage": 2.2
   },
   {
     "HouseType": "Detached",
     "NumPeople": 5,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 10.0
+    "EstimatedSavingsPercentage": 1.4
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.3
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 4.1
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 5,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 1.9
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.1
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.6
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 13.0
+    "EstimatedSavingsPercentage": 2.6
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.5
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 10.0
+    "EstimatedSavingsPercentage": 1.4
   },
   {
     "HouseType": "Detached",
     "NumPeople": 5,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 10.0
+    "EstimatedSavingsPercentage": 2.2
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 1.5
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.9
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 13.0
+    "EstimatedSavingsPercentage": 1.9
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.5
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.2
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 5,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.2
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 14.0
+    "EstimatedSavingsPercentage": 1.5
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 13.0
+    "EstimatedSavingsPercentage": 2.3
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 3,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.9
   },
   {
     "HouseType": "Detached",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.2
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 8.0
+    "EstimatedSavingsPercentage": 1.3
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.3
   },
   {
     "HouseType": "Detached",
     "NumPeople": 5,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 7.0
+    "EstimatedSavingsPercentage": 0.9
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 10.0
+    "EstimatedSavingsPercentage": 1.4
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.2
   },
   {
     "HouseType": "Detached",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 1.7
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 10.0
+    "EstimatedSavingsPercentage": 1.9
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 13.0
+    "EstimatedSavingsPercentage": 2.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 9.0
+    "EstimatedSavingsPercentage": 1.4
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.5
   },
   {
     "HouseType": "Detached",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 1.5
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 1.7
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.3
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.6
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.8
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 13.0
+    "EstimatedSavingsPercentage": 2.7
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 10.0
+    "EstimatedSavingsPercentage": 1.4
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 3.5
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.7
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 3,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 13.0
+    "EstimatedSavingsPercentage": 2.8
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.3
   },
   {
     "HouseType": "Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.4
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.1
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.7
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.5
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.8
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 6.0
+    "EstimatedSavingsPercentage": 0.9
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.3
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 5,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 10.0
+    "EstimatedSavingsPercentage": 2.6
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.2
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.6
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 10.0
+    "EstimatedSavingsPercentage": 2.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 3,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 1.6
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 10.0
+    "EstimatedSavingsPercentage": 2.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.2
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 3,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.4
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 1.9
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 3.4
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 5,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.5
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 3.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.5
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.3
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 3.4
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 3.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 1.9
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.1
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 3.3
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.7
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 13.0
+    "EstimatedSavingsPercentage": 2.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 10.0
+    "EstimatedSavingsPercentage": 3.1
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
-  },
-  {
-    "HouseType": "Detached",
-    "NumPeople": 3,
-    "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
-  },
-  {
-    "HouseType": "Mid-Terrace",
-    "NumPeople": 2,
-    "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
-  },
-  {
-    "HouseType": "Detached",
-    "NumPeople": 2,
-    "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 9.0
-  },
-  {
-    "HouseType": "Semi Detached",
-    "NumPeople": 1,
-    "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
-  },
-  {
-    "HouseType": "Semi Detached",
-    "NumPeople": 1,
-    "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
-  },
-  {
-    "HouseType": "Mid-Terrace",
-    "NumPeople": 1,
-    "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
-    "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EPCrating": "C",
+    "EstimatedSavingsPercentage": 2.5
+  },
+  {
+    "HouseType": "Mid-Terrace",
+    "NumPeople": 2,
+    "EPCrating": "C",
+    "EstimatedSavingsPercentage": 3.6
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 1.2
+  },
+  {
+    "HouseType": "Semi Detached",
+    "NumPeople": 1,
+    "EPCrating": "D",
+    "EstimatedSavingsPercentage": 2.5
+  },
+  {
+    "HouseType": "Semi Detached",
+    "NumPeople": 1,
+    "EPCrating": "C",
+    "EstimatedSavingsPercentage": 2.5
+  },
+  {
+    "HouseType": "Mid-Terrace",
+    "NumPeople": 1,
+    "EPCrating": "C",
+    "EstimatedSavingsPercentage": 3.7
+  },
+  {
+    "HouseType": "Detached",
+    "NumPeople": 3,
+    "EPCrating": "D",
+    "EstimatedSavingsPercentage": 1.9
+  },
+  {
+    "HouseType": "Detached",
+    "NumPeople": 2,
+    "EPCrating": "E",
+    "EstimatedSavingsPercentage": 1.6
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.3
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.7
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 2.6
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 12.0
+    "EstimatedSavingsPercentage": 1.8
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 7.0
+    "EstimatedSavingsPercentage": 0.7
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SavingsPercentage_HIU10kWh6kW": 10.0
+    "EstimatedSavingsPercentage": 3.8
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SavingsPercentage_HIU10kWh6kW": 11.0
+    "EstimatedSavingsPercentage": 2.7
   }
 ]

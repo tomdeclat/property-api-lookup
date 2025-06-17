@@ -3,1600 +3,1600 @@
     "HouseType": "Mid-Terrace",
     "NumPeople": 5,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.21,
-    "SolutionB_Percent": 0.26,
-    "SolutionC_Percent": 0.26
+    "SolutionA_Percent": 21.0,
+    "SolutionB_Percent": 26.0,
+    "SolutionC_Percent": 26.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.16,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 16.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.18,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 18.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 3,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.22,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 22.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.21,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 21.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.18,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 18.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.11,
-    "SolutionB_Percent": 0.18,
-    "SolutionC_Percent": 0.2
+    "SolutionA_Percent": 11.0,
+    "SolutionB_Percent": 18.0,
+    "SolutionC_Percent": 20.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 5,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.18,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.25
+    "SolutionA_Percent": 18.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 25.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.2,
-    "SolutionC_Percent": 0.2
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 20.0,
+    "SolutionC_Percent": 20.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.18,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 18.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.21,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 21.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.21,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 21.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.18,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 18.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.15,
-    "SolutionB_Percent": 0.19,
-    "SolutionC_Percent": 0.2
+    "SolutionA_Percent": 15.0,
+    "SolutionB_Percent": 19.0,
+    "SolutionC_Percent": 20.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 5,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.25,
-    "SolutionC_Percent": 0.25
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 25.0,
+    "SolutionC_Percent": 25.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.21,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 21.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.22,
-    "SolutionB_Percent": 0.25,
-    "SolutionC_Percent": 0.25
+    "SolutionA_Percent": 22.0,
+    "SolutionB_Percent": 25.0,
+    "SolutionC_Percent": 25.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.2,
-    "SolutionC_Percent": 0.2
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 20.0,
+    "SolutionC_Percent": 20.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.09,
-    "SolutionB_Percent": 0.17,
-    "SolutionC_Percent": 0.2
+    "SolutionA_Percent": 9.0,
+    "SolutionB_Percent": 17.0,
+    "SolutionC_Percent": 20.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.18,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 18.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.18,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 18.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 4,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.21,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 21.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 5,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.22,
-    "SolutionB_Percent": 0.25,
-    "SolutionC_Percent": 0.25
+    "SolutionA_Percent": 22.0,
+    "SolutionB_Percent": 25.0,
+    "SolutionC_Percent": 25.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.22,
-    "SolutionB_Percent": 0.25,
-    "SolutionC_Percent": 0.25
+    "SolutionA_Percent": 22.0,
+    "SolutionB_Percent": 25.0,
+    "SolutionC_Percent": 25.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.09,
-    "SolutionB_Percent": 0.17,
-    "SolutionC_Percent": 0.2
+    "SolutionA_Percent": 9.0,
+    "SolutionB_Percent": 17.0,
+    "SolutionC_Percent": 20.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.21,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 21.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.21,
-    "SolutionB_Percent": 0.25,
-    "SolutionC_Percent": 0.25
+    "SolutionA_Percent": 21.0,
+    "SolutionB_Percent": 25.0,
+    "SolutionC_Percent": 25.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.21,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 21.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.13,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 13.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.18,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 18.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.18,
-    "SolutionB_Percent": 0.25,
-    "SolutionC_Percent": 0.25
+    "SolutionA_Percent": 18.0,
+    "SolutionB_Percent": 25.0,
+    "SolutionC_Percent": 25.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.2,
-    "SolutionC_Percent": 0.2
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 20.0,
+    "SolutionC_Percent": 20.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.22,
-    "SolutionB_Percent": 0.25,
-    "SolutionC_Percent": 0.25
+    "SolutionA_Percent": 22.0,
+    "SolutionB_Percent": 25.0,
+    "SolutionC_Percent": 25.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.23,
-    "SolutionB_Percent": 0.25,
-    "SolutionC_Percent": 0.25
+    "SolutionA_Percent": 23.0,
+    "SolutionB_Percent": 25.0,
+    "SolutionC_Percent": 25.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.15,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 15.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 5,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.18,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 18.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.16,
-    "SolutionB_Percent": 0.2,
-    "SolutionC_Percent": 0.2
+    "SolutionA_Percent": 16.0,
+    "SolutionB_Percent": 20.0,
+    "SolutionC_Percent": 20.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 3,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.18,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 18.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.2,
-    "SolutionC_Percent": 0.2
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 20.0,
+    "SolutionC_Percent": 20.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.18,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 18.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.15,
-    "SolutionB_Percent": 0.2,
-    "SolutionC_Percent": 0.2
+    "SolutionA_Percent": 15.0,
+    "SolutionB_Percent": 20.0,
+    "SolutionC_Percent": 20.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.18,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 18.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 5,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.09,
-    "SolutionB_Percent": 0.18,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 9.0,
+    "SolutionB_Percent": 18.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.21,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 21.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 3,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.25,
-    "SolutionC_Percent": 0.25
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 25.0,
+    "SolutionC_Percent": 25.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 3,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.21,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 21.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.09,
-    "SolutionB_Percent": 0.17,
-    "SolutionC_Percent": 0.2
+    "SolutionA_Percent": 9.0,
+    "SolutionB_Percent": 17.0,
+    "SolutionC_Percent": 20.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 3,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 5,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.22,
-    "SolutionB_Percent": 0.25,
-    "SolutionC_Percent": 0.25
+    "SolutionA_Percent": 22.0,
+    "SolutionB_Percent": 25.0,
+    "SolutionC_Percent": 25.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.22,
-    "SolutionB_Percent": 0.26,
-    "SolutionC_Percent": 0.26
+    "SolutionA_Percent": 22.0,
+    "SolutionB_Percent": 26.0,
+    "SolutionC_Percent": 26.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 4,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.21,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 21.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.18,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 18.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.15,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 15.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.21,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 21.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.23,
-    "SolutionB_Percent": 0.26,
-    "SolutionC_Percent": 0.26
+    "SolutionA_Percent": 23.0,
+    "SolutionB_Percent": 26.0,
+    "SolutionC_Percent": 26.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.13,
-    "SolutionB_Percent": 0.2,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 13.0,
+    "SolutionB_Percent": 20.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.23,
-    "SolutionB_Percent": 0.27,
-    "SolutionC_Percent": 0.27
+    "SolutionA_Percent": 23.0,
+    "SolutionB_Percent": 27.0,
+    "SolutionC_Percent": 27.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 3,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.21,
-    "SolutionB_Percent": 0.25,
-    "SolutionC_Percent": 0.25
+    "SolutionA_Percent": 21.0,
+    "SolutionB_Percent": 25.0,
+    "SolutionC_Percent": 25.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.16,
-    "SolutionB_Percent": 0.19,
-    "SolutionC_Percent": 0.19
+    "SolutionA_Percent": 16.0,
+    "SolutionB_Percent": 19.0,
+    "SolutionC_Percent": 19.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 3,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.22,
-    "SolutionB_Percent": 0.25,
-    "SolutionC_Percent": 0.25
+    "SolutionA_Percent": 22.0,
+    "SolutionB_Percent": 25.0,
+    "SolutionC_Percent": 25.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.21,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 21.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.22,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 22.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.18,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 18.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 5,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.22,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 22.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.21,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 21.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.21,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 21.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.22,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 22.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.16,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 16.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.18,
-    "SolutionB_Percent": 0.25,
-    "SolutionC_Percent": 0.27
+    "SolutionA_Percent": 18.0,
+    "SolutionB_Percent": 25.0,
+    "SolutionC_Percent": 27.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.21,
-    "SolutionB_Percent": 0.25,
-    "SolutionC_Percent": 0.25
+    "SolutionA_Percent": 21.0,
+    "SolutionB_Percent": 25.0,
+    "SolutionC_Percent": 25.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.2,
-    "SolutionC_Percent": 0.2
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 20.0,
+    "SolutionC_Percent": 20.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 5,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.14,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 14.000000000000002,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.25,
-    "SolutionC_Percent": 0.25
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 25.0,
+    "SolutionC_Percent": 25.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.24,
-    "SolutionB_Percent": 0.26,
-    "SolutionC_Percent": 0.26
+    "SolutionA_Percent": 24.0,
+    "SolutionB_Percent": 26.0,
+    "SolutionC_Percent": 26.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 5,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.18,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 18.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.21,
-    "SolutionB_Percent": 0.25,
-    "SolutionC_Percent": 0.25
+    "SolutionA_Percent": 21.0,
+    "SolutionB_Percent": 25.0,
+    "SolutionC_Percent": 25.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.14,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 14.000000000000002,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 5,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.25,
-    "SolutionC_Percent": 0.25
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 25.0,
+    "SolutionC_Percent": 25.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.14,
-    "SolutionB_Percent": 0.17,
-    "SolutionC_Percent": 0.17
+    "SolutionA_Percent": 14.000000000000002,
+    "SolutionB_Percent": 17.0,
+    "SolutionC_Percent": 17.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.22,
-    "SolutionB_Percent": 0.25,
-    "SolutionC_Percent": 0.25
+    "SolutionA_Percent": 22.0,
+    "SolutionB_Percent": 25.0,
+    "SolutionC_Percent": 25.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 5,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.15,
-    "SolutionB_Percent": 0.19,
-    "SolutionC_Percent": 0.19
+    "SolutionA_Percent": 15.0,
+    "SolutionB_Percent": 19.0,
+    "SolutionC_Percent": 19.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 3,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.21,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 21.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.18,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 18.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.14,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 14.000000000000002,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.18,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 18.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 5,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.1,
-    "SolutionB_Percent": 0.18,
-    "SolutionC_Percent": 0.2
+    "SolutionA_Percent": 10.0,
+    "SolutionB_Percent": 18.0,
+    "SolutionC_Percent": 20.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.15,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 15.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.15,
-    "SolutionB_Percent": 0.19,
-    "SolutionC_Percent": 0.19
+    "SolutionA_Percent": 15.0,
+    "SolutionB_Percent": 19.0,
+    "SolutionC_Percent": 19.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.16,
-    "SolutionB_Percent": 0.2,
-    "SolutionC_Percent": 0.2
+    "SolutionA_Percent": 16.0,
+    "SolutionB_Percent": 20.0,
+    "SolutionC_Percent": 20.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.15,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 15.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.14,
-    "SolutionB_Percent": 0.2,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 14.000000000000002,
+    "SolutionB_Percent": 20.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.16,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 16.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.14,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 14.000000000000002,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.23,
-    "SolutionB_Percent": 0.26,
-    "SolutionC_Percent": 0.26
+    "SolutionA_Percent": 23.0,
+    "SolutionB_Percent": 26.0,
+    "SolutionC_Percent": 26.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 3,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.22,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 22.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.18,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 18.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.09,
-    "SolutionB_Percent": 0.18,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 9.0,
+    "SolutionB_Percent": 18.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 5,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.26,
-    "SolutionC_Percent": 0.27
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 26.0,
+    "SolutionC_Percent": 27.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.18,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 18.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.21,
-    "SolutionB_Percent": 0.25,
-    "SolutionC_Percent": 0.25
+    "SolutionA_Percent": 21.0,
+    "SolutionB_Percent": 25.0,
+    "SolutionC_Percent": 25.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 3,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.15,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 15.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 4,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.18,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 18.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.25
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 25.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 3,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.23,
-    "SolutionB_Percent": 0.25,
-    "SolutionC_Percent": 0.25
+    "SolutionA_Percent": 23.0,
+    "SolutionB_Percent": 25.0,
+    "SolutionC_Percent": 25.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 5,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.21,
-    "SolutionB_Percent": 0.26,
-    "SolutionC_Percent": 0.26
+    "SolutionA_Percent": 21.0,
+    "SolutionB_Percent": 26.0,
+    "SolutionC_Percent": 26.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.21,
-    "SolutionB_Percent": 0.26,
-    "SolutionC_Percent": 0.26
+    "SolutionA_Percent": 21.0,
+    "SolutionB_Percent": 26.0,
+    "SolutionC_Percent": 26.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.22,
-    "SolutionB_Percent": 0.25,
-    "SolutionC_Percent": 0.25
+    "SolutionA_Percent": 22.0,
+    "SolutionB_Percent": 25.0,
+    "SolutionC_Percent": 25.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.21,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
+    "SolutionA_Percent": 21.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.21
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 21.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.2,
-    "SolutionC_Percent": 0.2
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 20.0,
+    "SolutionC_Percent": 20.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.23,
-    "SolutionB_Percent": 0.25,
-    "SolutionC_Percent": 0.25
+    "SolutionA_Percent": 23.0,
+    "SolutionB_Percent": 25.0,
+    "SolutionC_Percent": 25.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 2,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.2,
-    "SolutionC_Percent": 0.2
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 20.0,
+    "SolutionC_Percent": 20.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.21,
-    "SolutionB_Percent": 0.27,
-    "SolutionC_Percent": 0.28
+    "SolutionA_Percent": 21.0,
+    "SolutionB_Percent": 27.0,
+    "SolutionC_Percent": 28.000000000000004
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
-  },
-  {
-    "HouseType": "Detached",
-    "NumPeople": 3,
-    "EPCrating": "C",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.24,
-    "SolutionC_Percent": 0.24
-  },
-  {
-    "HouseType": "Mid-Terrace",
-    "NumPeople": 2,
-    "EPCrating": "C",
-    "SolutionA_Percent": 0.24,
-    "SolutionB_Percent": 0.26,
-    "SolutionC_Percent": 0.26
-  },
-  {
-    "HouseType": "Detached",
-    "NumPeople": 2,
-    "EPCrating": "E",
-    "SolutionA_Percent": 0.13,
-    "SolutionB_Percent": 0.2,
-    "SolutionC_Percent": 0.21
-  },
-  {
-    "HouseType": "Semi Detached",
-    "NumPeople": 1,
-    "EPCrating": "D",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
-  },
-  {
-    "HouseType": "Semi Detached",
-    "NumPeople": 1,
-    "EPCrating": "C",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.21,
-    "SolutionC_Percent": 0.21
-  },
-  {
-    "HouseType": "Mid-Terrace",
-    "NumPeople": 1,
-    "EPCrating": "C",
-    "SolutionA_Percent": 0.23,
-    "SolutionB_Percent": 0.25,
-    "SolutionC_Percent": 0.25
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
-    "EPCrating": "D",
-    "SolutionA_Percent": 0.17,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "EPCrating": "C",
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 24.0,
+    "SolutionC_Percent": 24.0
+  },
+  {
+    "HouseType": "Mid-Terrace",
+    "NumPeople": 2,
+    "EPCrating": "C",
+    "SolutionA_Percent": 24.0,
+    "SolutionB_Percent": 26.0,
+    "SolutionC_Percent": 26.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 2,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.15,
-    "SolutionB_Percent": 0.2,
-    "SolutionC_Percent": 0.2
+    "SolutionA_Percent": 13.0,
+    "SolutionB_Percent": 20.0,
+    "SolutionC_Percent": 21.0
+  },
+  {
+    "HouseType": "Semi Detached",
+    "NumPeople": 1,
+    "EPCrating": "D",
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
+  },
+  {
+    "HouseType": "Semi Detached",
+    "NumPeople": 1,
+    "EPCrating": "C",
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 21.0,
+    "SolutionC_Percent": 21.0
+  },
+  {
+    "HouseType": "Mid-Terrace",
+    "NumPeople": 1,
+    "EPCrating": "C",
+    "SolutionA_Percent": 23.0,
+    "SolutionB_Percent": 25.0,
+    "SolutionC_Percent": 25.0
+  },
+  {
+    "HouseType": "Detached",
+    "NumPeople": 3,
+    "EPCrating": "D",
+    "SolutionA_Percent": 17.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
+  },
+  {
+    "HouseType": "Detached",
+    "NumPeople": 2,
+    "EPCrating": "E",
+    "SolutionA_Percent": 15.0,
+    "SolutionB_Percent": 20.0,
+    "SolutionC_Percent": 20.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.23,
-    "SolutionC_Percent": 0.23
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 23.0,
+    "SolutionC_Percent": 23.0
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.19,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 19.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 4,
     "EPCrating": "C",
-    "SolutionA_Percent": 0.22,
-    "SolutionB_Percent": 0.25,
-    "SolutionC_Percent": 0.25
+    "SolutionA_Percent": 22.0,
+    "SolutionB_Percent": 25.0,
+    "SolutionC_Percent": 25.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.16,
-    "SolutionB_Percent": 0.2,
-    "SolutionC_Percent": 0.2
+    "SolutionA_Percent": 16.0,
+    "SolutionB_Percent": 20.0,
+    "SolutionC_Percent": 20.0
   },
   {
     "HouseType": "Detached",
     "NumPeople": 3,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.09,
-    "SolutionB_Percent": 0.17,
-    "SolutionC_Percent": 0.2
+    "SolutionA_Percent": 9.0,
+    "SolutionB_Percent": 17.0,
+    "SolutionC_Percent": 20.0
   },
   {
     "HouseType": "Semi Detached",
     "NumPeople": 1,
     "EPCrating": "D",
-    "SolutionA_Percent": 0.23,
-    "SolutionB_Percent": 0.28,
-    "SolutionC_Percent": 0.28
+    "SolutionA_Percent": 23.0,
+    "SolutionB_Percent": 28.000000000000004,
+    "SolutionC_Percent": 28.000000000000004
   },
   {
     "HouseType": "Mid-Terrace",
     "NumPeople": 1,
     "EPCrating": "E",
-    "SolutionA_Percent": 0.2,
-    "SolutionB_Percent": 0.22,
-    "SolutionC_Percent": 0.22
+    "SolutionA_Percent": 20.0,
+    "SolutionB_Percent": 22.0,
+    "SolutionC_Percent": 22.0
   }
 ]
